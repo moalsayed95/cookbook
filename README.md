@@ -12,3 +12,4 @@ Quick-reference companion to my tech videos. Each topic has a brief explainer an
 | [GitHub Actions](topics/github-actions/) | `ci-cd` `automation` `github` `devops` | _coming soon_ |
 | [Minikube — Kubernetes on Your Laptop](topics/minikube/) | `kubernetes` `minikube` `devops` `containers` | _coming soon_ |
 | [VPN vs Proxy](topics/vpn-vs-proxy/) | `networking` `security` `privacy` `vpn` `proxy` | [Watch](https://www.youtube.com/watch?v=VhLoxxOrwIo) |
+| [UUID](topics/uuid/) | `databases` `distributed-systems` `primary-keys` | _coming soon_ |
