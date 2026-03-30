@@ -1,5 +1,18 @@
 # GitHub Actions
 
+## Resources
+
+### YouTube Videos
+- [GitHub Actions — Complete Beginner's Guide (Nana)](https://www.youtube.com/watch?v=R8_veQiYBjI)
+
+### Docs
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [Workflow Syntax Reference](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax)
+- [Events That Trigger Workflows](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
+- [GitHub Actions Marketplace](https://github.com/marketplace?type=actions)
+
+---
+
 ## What is GitHub Actions?
 
 GitHub Actions is a **CI/CD platform** built directly into GitHub that lets you automate your build, test, and deployment pipeline. Instead of relying on external tools, you define workflows as YAML files right inside your repository — and GitHub runs them for you on every push, pull request, release, or any other event you choose.
@@ -145,13 +158,4 @@ Secrets are stored in **Settings → Secrets and variables → Actions** and are
 - **Public repos** — unlimited free minutes
 - **Private repos** — free tier includes 2,000 minutes/month (varies by plan), then pay-per-minute
 
-## Resources
 
-### YouTube Videos
-- [GitHub Actions — Complete Beginner's Guide (Nana)](https://www.youtube.com/watch?v=R8_veQiYBjI)
-
-### Docs
-- [GitHub Actions Documentation](https://docs.github.com/en/actions)
-- [Workflow Syntax Reference](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax)
-- [Events That Trigger Workflows](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
-- [GitHub Actions Marketplace](https://github.com/marketplace?type=actions)

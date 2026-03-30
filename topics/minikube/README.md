@@ -1,5 +1,17 @@
 # Minikube — Kubernetes on Your Laptop
 
+## Resources
+
+### YouTube Videos
+- [Kubernetes Full Course — TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
+
+### Docs
+- [Minikube Documentation](https://minikube.sigs.k8s.io/docs/)
+- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+- [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)
+
+---
+
 Kubernetes sounds scary. It's not. With **Minikube** you can spin up a full Kubernetes cluster on your own laptop in one command — no cloud account, no credit card, no complex setup. Just you, your terminal, and a running cluster to learn with.
 
 ## Why Minikube?
@@ -243,12 +255,4 @@ The beautiful part: **`kubectl` commands are the same everywhere**. Everything y
 
 Kubernetes is just Pods, Deployments, and Services. Start small, break things, learn by doing. Your laptop is all you need.
 
-## Resources
 
-### YouTube Videos
-- [Kubernetes Full Course — TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
-
-### Docs
-- [Minikube Documentation](https://minikube.sigs.k8s.io/docs/)
-- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-- [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)

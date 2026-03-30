@@ -1,5 +1,14 @@
 # How Tinder Finds Matches in Milliseconds
 
+## Resources
+
+### Articles
+- [Design Tinder — System Design Handbook](https://www.systemdesignhandbook.com/guides/design-tinder/)
+- [How Tinder Recommends to 75 Million Users — ByteByteGo](https://blog.bytebytego.com/p/how-tinder-recommends-to-75-million)
+- [Geosharded Recommendations Part 1: Sharding Approach — Tinder Engineering](https://medium.com/tinder/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
+
+---
+
 ## The Problem
 
 Tinder has over 75 million users worldwide. A naive approach — calculating the distance between you and every other user — would be impossibly slow. They need sub-second latency to make swiping feel instant.
@@ -38,9 +47,4 @@ Instead of scanning millions of users globally, the system narrows it down to tw
 - **Coordinating nodes** route queries to the right shards based on your location and distance filters
 - **Randomized shard distribution** across servers balances load across time zones (so traffic spikes in one region don't overload specific nodes)
 
-## Resources
 
-### Articles
-- [Design Tinder — System Design Handbook](https://www.systemdesignhandbook.com/guides/design-tinder/)
-- [How Tinder Recommends to 75 Million Users — ByteByteGo](https://blog.bytebytego.com/p/how-tinder-recommends-to-75-million)
-- [Geosharded Recommendations Part 1: Sharding Approach — Tinder Engineering](https://medium.com/tinder/geosharded-recommendations-part-1-sharding-approach-d5d54e0ec77a)
