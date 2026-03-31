@@ -13,3 +13,4 @@ Quick-reference companion to my tech videos. Each topic has a brief explainer an
 | [Minikube — Kubernetes on Your Laptop](topics/minikube/) | `kubernetes` `minikube` `devops` `containers` | _coming soon_ |
 | [VPN vs Proxy](topics/vpn-vs-proxy/) | `networking` `security` `privacy` `vpn` `proxy` | [Watch](https://www.youtube.com/watch?v=VhLoxxOrwIo) |
 | [UUID](topics/uuid/) | `databases` `distributed-systems` `primary-keys` | _coming soon_ |
+| [DevOps Engineer Roadmap 2027](topics/devops-engineer-roadmap/) | `devops` `roadmap` `docker` `kubernetes` `terraform` `ci-cd` | _coming soon_ |
