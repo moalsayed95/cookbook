@@ -29,7 +29,7 @@
 - [Building AI Agents in Pure Python — Beginner Course](https://www.youtube.com/watch?v=bZzyPscbtI8&t=1475s)
 
 **MLOps**
-- [MLOps Full Course — Edureka](https://www.youtube.com/watch?v=pqppGvTJm-A)
+- [MLOps: Accelerating Data Science with DevOps — Microsoft](https://www.youtube.com/watch?v=pqppGvTJm-A)
 - [MLOps Full Course for 2026 — 12 Hour | MLOps for Beginners (Edureka Live)](https://www.youtube.com/watch?v=DDoK3bvi7lw)
 
 ---
@@ -92,7 +92,7 @@ To go deeper on the engineering side, [Building AI Agents in Pure Python](https:
 
 A highly accurate model trapped in a local Jupyter Notebook provides zero commercial value. You have to know how to engineer it for the real world.
 
-Learn containerization and deployment pipelines with [Edureka's MLOps Full Course](https://www.youtube.com/watch?v=pqppGvTJm-A) — covering Docker, GitHub version control, and CI/CD pipelines.
+Learn containerization and deployment pipelines with [MLOps: Accelerating Data Science with DevOps](https://www.youtube.com/watch?v=pqppGvTJm-A) by Microsoft — covering Docker, GitHub version control, and CI/CD pipelines.
 
 Then understand modern cloud data transformation by learning **dbt (Data Build Tool)** — the standard for how data teams operate in production.
 
