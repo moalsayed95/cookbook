@@ -13,5 +13,6 @@ Quick-reference companion to my tech videos. Each topic has a brief explainer an
 | [Minikube — Kubernetes on Your Laptop](topics/minikube/) | `kubernetes` `minikube` `devops` `containers` | [Watch](https://www.instagram.com/reel/DVq58aGje3u/) |
 | [VPN vs Proxy](topics/vpn-vs-proxy/) | `networking` `security` `privacy` `vpn` `proxy` | [Watch](https://www.youtube.com/watch?v=VhLoxxOrwIo) |
 | [UUID](topics/uuid/) | `databases` `distributed-systems` `primary-keys` | [Watch](https://www.instagram.com/reel/DU0z5MxjZJN/) |
+| [Regular Expressions (Regex)](topics/regex/) | `regex` `python` `text-processing` `validation` | _coming soon_ |
 | [DevOps Engineer Roadmap 2027](topics/devops-engineer-roadmap/) | `devops` `roadmap` `docker` `kubernetes` `terraform` `ci-cd` | _coming soon_ |
 | [Data Scientist Roadmap 2027](topics/data-scientist-roadmap/) | `data-science` `roadmap` `machine-learning` `python` `mlops` | _coming soon_ |
