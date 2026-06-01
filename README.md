@@ -49,6 +49,7 @@ Working FastAPI projects you can clone and run. Each one teaches one production-
 |---------|------|-------|
 | [Measure API Request Time](live-coding/measure-api-request-time/) | `fastapi` `middleware` `performance` `interview` | _coming soon_ |
 | [Rate Limiting](live-coding/rate-limiting/) | `fastapi` `rate-limiting` `slowapi` `security` `interview` | _coming soon_ |
+| [Add Real-Time Voice to a RAG Web App](live-coding/voice-to-rag-elevenlabs/) | `fastapi` `react` `voice` `elevenlabs` `rag` `websockets` `interview` | _coming soon_ |
 
 ## Data Structures & Algorithms
 
