@@ -295,7 +295,5 @@ When the interview asks "add voice to a RAG app," the answer isn't "ElevenLabs."
 ## Resources
 
 ### Docs
-- [ElevenLabs — Speech Engine](https://elevenlabs.io/docs/conversational-ai/overview)
-- [ElevenLabs — `@elevenlabs/react` SDK](https://www.npmjs.com/package/@elevenlabs/react)
 - [FastAPI — WebSockets](https://fastapi.tiangolo.com/advanced/websockets/)
 - [ngrok — Getting started](https://ngrok.com/docs/getting-started/)
