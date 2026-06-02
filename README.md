@@ -29,6 +29,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Regular Expressions (Regex)](topics/regex/) | `regex` `python` `text-processing` `validation` | _coming soon_ |
 | [DevOps Engineer Roadmap 2027](topics/devops-engineer-roadmap/) | `devops` `roadmap` `docker` `kubernetes` `terraform` `ci-cd` | _coming soon_ |
 | [Data Scientist Roadmap 2027](topics/data-scientist-roadmap/) | `data-science` `roadmap` `machine-learning` `python` `mlops` | _coming soon_ |
+| [Backend Engineer Roadmap 2026](topics/backend-engineer-roadmap/) | `backend` `roadmap` `python` `fastapi` `sql` `postgres` `cloud` `terraform` | _coming soon_ |
 | [Pre-Deployment Checklist](topics/pre-deployment-checklist/) | `deployment` `security` `production` `devops` `checklist` | _coming soon_ |
 | [RAG Chunking Strategy](topics/rag-chunking-strategy/) | `rag` `vector-database` `chunking` `embeddings` `ai-engineering` | _coming soon_ |
 | [Kotlin Multiplatform](topics/kotlin-multiplatform/) | `mobile` `kotlin` `multiplatform` `android` `ios` `compose` | _coming soon_ |
