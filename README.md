@@ -44,6 +44,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [API Gateway Authentication](topics/api-gateway-auth/) | `system-design` `auth` `security` `api-gateway` `jwt` `interview` | _coming soon_ |
 | [Point-to-Site vs Site-to-Site VPN](topics/point-to-site-vs-site-to-site-vpn/) | `networking` `vpn` `security` `ipsec` `system-design` `interview` | _coming soon_ |
 | [HTTP vs HTTPS](topics/http-vs-https/) | `networking` `security` `https` `tls` `web` `interview` | _coming soon_ |
+| [Authentication vs Authorization](topics/authentication-vs-authorization/) | `auth` `security` `authz` `authn` `idor` `interview` | _coming soon_ |
 
 ## Live Coding
 
