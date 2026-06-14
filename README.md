@@ -25,6 +25,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [VPN vs Proxy](topics/vpn-vs-proxy/) | `networking` `security` `privacy` `vpn` `proxy` | [Watch](https://www.youtube.com/watch?v=VhLoxxOrwIo) |
 | [UUID](topics/uuid/) | `databases` `distributed-systems` `primary-keys` | [Watch](https://www.instagram.com/reel/DU0z5MxjZJN/) |
 | [How Global Apps Keep You Logged In](topics/how-global-apps-keep-you-logged-in/) | `system-design` `auth` `jwt` `sessions` `load-balancer` | [Watch](https://www.instagram.com/reel/DXj94w6DdMw/) |
+| [JWT vs Session Cookies](topics/jwt-vs-session-cookies/) | `auth` `jwt` `sessions` `cookies` `security` `xss` `interview` | _coming soon_ |
 | [Designing Google Docs](topics/design-google-docs/) | `system-design` `websockets` `operational-transform` `collaboration` | [Watch](https://www.instagram.com/reel/DXmV_90jby3/) |
 | [Process vs Thread](topics/process-vs-thread/) | `os` `concurrency` `processes` `threads` `interview` | [Watch](https://www.instagram.com/reel/DXuGlN0jb8P/) |
 | [Regular Expressions (Regex)](topics/regex/) | `regex` `python` `text-processing` `validation` | _coming soon_ |
@@ -47,6 +48,8 @@ Concept deep-dives, checklists, and roadmaps.
 | [HTTP vs HTTPS](topics/http-vs-https/) | `networking` `security` `https` `tls` `web` `interview` | _coming soon_ |
 | [Authentication vs Authorization](topics/authentication-vs-authorization/) | `auth` `security` `authz` `authn` `idor` `interview` | _coming soon_ |
 | [SQL Injection](topics/sql-injection/) | `security` `databases` `sql` `sql-injection` `owasp` `interview` | _coming soon_ |
+| [Elasticsearch — The Autocomplete AHA Moment](topics/elasticsearch-autocomplete/) | `elasticsearch` `search` `inverted-index` `system-design` `autocomplete` `interview` | _coming soon_ |
+| [Project Scaffolding CLIs](topics/project-scaffolding-clis/) | `cli` `scaffolding` `productivity` `tooling` `claude-code` | _coming soon_ |
 
 ## Live Coding
 
