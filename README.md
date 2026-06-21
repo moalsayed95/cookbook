@@ -25,6 +25,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [VPN vs Proxy](topics/vpn-vs-proxy/) | `networking` `security` `privacy` `vpn` `proxy` | [Watch](https://www.youtube.com/watch?v=VhLoxxOrwIo) |
 | [UUID](topics/uuid/) | `databases` `distributed-systems` `primary-keys` | [Watch](https://www.instagram.com/reel/DU0z5MxjZJN/) |
 | [How Global Apps Keep You Logged In](topics/how-global-apps-keep-you-logged-in/) | `system-design` `auth` `jwt` `sessions` `load-balancer` | [Watch](https://www.instagram.com/reel/DXj94w6DdMw/) |
+| [JWT — The Signed Envelope](topics/jwt/) | `auth` `jwt` `security` `cookies` `refresh-tokens` `interview` | _coming soon_ |
 | [JWT vs Session Cookies](topics/jwt-vs-session-cookies/) | `auth` `jwt` `sessions` `cookies` `security` `xss` `interview` | _coming soon_ |
 | [Designing Google Docs](topics/design-google-docs/) | `system-design` `websockets` `operational-transform` `collaboration` | [Watch](https://www.instagram.com/reel/DXmV_90jby3/) |
 | [Process vs Thread](topics/process-vs-thread/) | `os` `concurrency` `processes` `threads` `interview` | [Watch](https://www.instagram.com/reel/DXuGlN0jb8P/) |
