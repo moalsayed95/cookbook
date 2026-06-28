@@ -34,6 +34,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Data Scientist Roadmap 2027](topics/data-scientist-roadmap/) | `data-science` `roadmap` `machine-learning` `python` `mlops` | _coming soon_ |
 | [Backend Engineer Roadmap 2026](topics/backend-engineer-roadmap/) | `backend` `roadmap` `python` `fastapi` `sql` `postgres` `cloud` `terraform` | _coming soon_ |
 | [Pre-Deployment Checklist](topics/pre-deployment-checklist/) | `deployment` `security` `production` `devops` `checklist` | _coming soon_ |
+| [Vector Databases](topics/vector-database/) | `vector-database` `embeddings` `cosine-similarity` `rag` `ai-engineering` `interview` | _coming soon_ |
 | [RAG Chunking Strategy](topics/rag-chunking-strategy/) | `rag` `vector-database` `chunking` `embeddings` `ai-engineering` | _coming soon_ |
 | [Kotlin Multiplatform](topics/kotlin-multiplatform/) | `mobile` `kotlin` `multiplatform` `android` `ios` `compose` | _coming soon_ |
 | [CDN Anycast Routing](topics/cdn-anycast-routing/) | `cdn` `system-design` `networking` `anycast` `latency` `interview` | _coming soon_ |
