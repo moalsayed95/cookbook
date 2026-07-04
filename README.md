@@ -52,6 +52,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [SQL Injection](topics/sql-injection/) | `security` `databases` `sql` `sql-injection` `owasp` `interview` | _coming soon_ |
 | [Elasticsearch — The Autocomplete AHA Moment](topics/elasticsearch-autocomplete/) | `elasticsearch` `search` `inverted-index` `system-design` `autocomplete` `interview` | _coming soon_ |
 | [Project Scaffolding CLIs](topics/project-scaffolding-clis/) | `cli` `scaffolding` `productivity` `tooling` `claude-code` | _coming soon_ |
+| [Sharing localhost](topics/share-localhost/) | `networking` `tunneling` `ngrok` `deployment` `devops` `interview` | _coming soon_ |
 
 ## Live Coding
 
