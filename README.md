@@ -36,6 +36,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Pre-Deployment Checklist](topics/pre-deployment-checklist/) | `deployment` `security` `production` `devops` `checklist` | _coming soon_ |
 | [Vector Databases](topics/vector-database/) | `vector-database` `embeddings` `cosine-similarity` `rag` `ai-engineering` `interview` | _coming soon_ |
 | [RAG Chunking Strategy](topics/rag-chunking-strategy/) | `rag` `vector-database` `chunking` `embeddings` `ai-engineering` | _coming soon_ |
+| [Prompt Caching](topics/prompt-caching/) | `ai-engineering` `llm` `prompt-caching` `kv-cache` `performance` `interview` | _coming soon_ |
 | [Kotlin Multiplatform](topics/kotlin-multiplatform/) | `mobile` `kotlin` `multiplatform` `android` `ios` `compose` | _coming soon_ |
 | [CDN Anycast Routing](topics/cdn-anycast-routing/) | `cdn` `system-design` `networking` `anycast` `latency` `interview` | _coming soon_ |
 | [Bulk Loads & Indexes](topics/bulk-loads-and-indexes/) | `databases` `indexes` `performance` `b-tree` `bulk-loads` `interview` | _coming soon_ |
