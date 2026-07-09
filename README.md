@@ -54,6 +54,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Elasticsearch — The Autocomplete AHA Moment](topics/elasticsearch-autocomplete/) | `elasticsearch` `search` `inverted-index` `system-design` `autocomplete` `interview` | _coming soon_ |
 | [Project Scaffolding CLIs](topics/project-scaffolding-clis/) | `cli` `scaffolding` `productivity` `tooling` `claude-code` | _coming soon_ |
 | [Sharing localhost](topics/share-localhost/) | `networking` `tunneling` `ngrok` `deployment` `devops` `interview` | _coming soon_ |
+| [Port Forwarding](topics/port-forwarding/) | `networking` `nat` `port-forwarding` `cgnat` `tunneling` `interview` | _coming soon_ |
 
 ## Live Coding
 
