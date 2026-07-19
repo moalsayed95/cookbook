@@ -55,6 +55,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Project Scaffolding CLIs](topics/project-scaffolding-clis/) | `cli` `scaffolding` `productivity` `tooling` `claude-code` | _coming soon_ |
 | [Sharing localhost](topics/share-localhost/) | `networking` `tunneling` `ngrok` `deployment` `devops` `interview` | _coming soon_ |
 | [Port Forwarding](topics/port-forwarding/) | `networking` `nat` `port-forwarding` `cgnat` `tunneling` `interview` | _coming soon_ |
+| [Learn to Code from Scratch — The 2026 Developer Blueprint](topics/learn-to-code-from-scratch/) | `roadmap` `python` `beginner` `ai-engineering` `dsa` `git` | _coming soon_ |
 
 ## Live Coding
 
