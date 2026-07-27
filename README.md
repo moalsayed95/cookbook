@@ -57,6 +57,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Port Forwarding](topics/port-forwarding/) | `networking` `nat` `port-forwarding` `cgnat` `tunneling` `interview` | _coming soon_ |
 | [Learn to Code from Scratch — The 2026 Developer Blueprint](topics/learn-to-code-from-scratch/) | `roadmap` `python` `beginner` `ai-engineering` `dsa` `git` | _coming soon_ |
 | [HTTP QUERY — The First New HTTP Method in 16 Years](topics/http-query-method/) | `networking` `http` `api-design` `caching` `security` `interview` | _coming soon_ |
+| [Designing WhatsApp](topics/design-whatsapp/) | `system-design` `websockets` `realtime` `messaging` `cassandra` `interview` | _coming soon_ |
 
 ## Live Coding
 
