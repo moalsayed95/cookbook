@@ -1,0 +1,35 @@
+services:
+
+  # Database — must be healthy before backend starts
+  database:
+    image: pgvector/pgvector:pg16
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: chatuser
+      POSTGRES_PASSWORD: chatpass
+      POSTGRES_DB: chatdb
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U chatuser -d chatdb"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  # Backend — waits for database to be healthy
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql://chatuser:chatpass@database:5432/chatdb
+    depends_on:
+      database:
+        condition: service_healthy
+
+  # Frontend — waits for backend to start
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
