@@ -10,7 +10,31 @@ One import fixes this. Pydantic turns your endpoint from an open door into a bou
 
 Without validation, your API is a mailbox with no slot — you can shove anything in: a letter, a pizza, a live raccoon. It all gets "delivered."
 
+Here's the broken endpoint — it accepts a raw `dict`, which means literally anything:
+
+```python
+@app.post("/create-user-bad")
+async def create_user_bad(data: dict):
+    return {"saved": data}
+```
+
 Pydantic gives you a **contract**: a strict shape definition that says "I accept a `name` (string) and an `email` (valid email). Everything else gets rejected before your code even runs."
+
+```python
+from pydantic import BaseModel, EmailStr
+
+class User(BaseModel):
+    name: str
+    email: EmailStr
+```
+
+That's it. That class is the bouncer. Now you swap the `dict` for `User` in the endpoint signature:
+
+```python
+@app.post("/create-user")
+async def create_user(user: User):
+    return {"name": user.name, "email": user.email}
+```
 
 | Without Pydantic | With Pydantic |
 |---|---|
@@ -59,7 +83,30 @@ Validation isn't just about input. The `response_model` parameter controls what 
 
 Your internal `User` object might have a password hash, an internal ID, admin flags — fields that should never leave the server. Without `response_model`, one accidental `return user` leaks everything.
 
-With it, Pydantic strips the response down to only the fields you declared. Even if your function returns an object with 20 fields, the client only sees what you allowed.
+You create a second model — only the fields you want the outside world to see:
+
+```python
+class UserResponse(BaseModel):
+    name: str
+    email: str
+```
+
+Then tell FastAPI to use it as a filter:
+
+```python
+@app.post("/create-user", response_model=UserResponse)
+async def create_user(user: User):
+    # Internally we have password_hash, internal_id, etc.
+    internal_data = {
+        "name": user.name,
+        "email": user.email,
+        "password_hash": "hashed_secret_123",
+        "internal_id": 42,
+    }
+    return internal_data  # FastAPI strips it down to only name + email
+```
+
+Even though the function returns 4 fields, the client only receives `name` and `email`. The `password_hash` and `internal_id` never leave the server. Zero accidental data leaks.
 
 ---
 
