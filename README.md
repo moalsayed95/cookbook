@@ -71,6 +71,7 @@ Working FastAPI projects you can clone and run. Each one teaches one production-
 | [Rate Limiting](live-coding/rate-limiting/) | `fastapi` `rate-limiting` `slowapi` `security` `interview` | _coming soon_ |
 | [Add Real-Time Voice to a RAG Web App](live-coding/voice-to-rag-elevenlabs/) | `fastapi` `react` `voice` `elevenlabs` `rag` `websockets` `interview` | _coming soon_ |
 | [Pydantic Validation — The Bouncer Your API Is Missing](live-coding/pydantic-validation/) | `fastapi` `pydantic` `validation` `security` `interview` | _coming soon_ |
+| [Health Check — Your API's Pulse](live-coding/health-check/) | `fastapi` `health-check` `devops` `kubernetes` `interview` | _coming soon_ |
 | [Docker Compose — One Command to Rule Them All](live-coding/docker-compose/) | `docker` `docker-compose` `microservices` `devops` `containers` | _coming soon_ |
 
 ## Data Structures & Algorithms
