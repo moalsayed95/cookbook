@@ -59,6 +59,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [HTTP QUERY — The First New HTTP Method in 16 Years](topics/http-query-method/) | `networking` `http` `api-design` `caching` `security` `interview` | _coming soon_ |
 | [Designing WhatsApp](topics/design-whatsapp/) | `system-design` `websockets` `realtime` `messaging` `cassandra` `interview` | _coming soon_ |
 | [Designing a URL Shortener (TinyURL)](topics/tiny-URL/) | `system-design` `redis` `caching` `databases` `interview` | _coming soon_ |
+| [How ChatGPT Understands Every Language — Tokenization & BPE](topics/tokenization-and-bpe/) | `ai-engineering` `tokenization` `bpe` `llm` `multilingual` `interview` | _coming soon_ |
 
 ## Live Coding
 
