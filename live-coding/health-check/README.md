@@ -4,6 +4,10 @@ Your API is running. But how do you *know* it's running? Right now, you'd have t
 
 A health check is a two-line endpoint that gives your infrastructure one simple answer: **alive or dead.**
 
+<p align="center">
+  <img src="heartsensor.webp" alt="Heart sensor — your API's pulse" width="400"/>
+</p>
+
 ---
 
 ## The Idea
