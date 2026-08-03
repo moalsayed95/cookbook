@@ -60,6 +60,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Designing WhatsApp](topics/design-whatsapp/) | `system-design` `websockets` `realtime` `messaging` `cassandra` `interview` | _coming soon_ |
 | [Designing a URL Shortener (TinyURL)](topics/tiny-URL/) | `system-design` `redis` `caching` `databases` `interview` | _coming soon_ |
 | [How ChatGPT Understands Every Language — Tokenization & BPE](topics/tokenization-and-bpe/) | `ai-engineering` `tokenization` `bpe` `llm` `multilingual` `interview` | _coming soon_ |
+| [GitHub Stacked PRs — Stop Shipping Monster Pull Requests](topics/stacked-pull-requests/) | `github` `git` `code-review` `productivity` `devops` | _coming soon_ |
 
 ## Live Coding
 
