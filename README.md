@@ -62,6 +62,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [How ChatGPT Understands Every Language — Tokenization & BPE](topics/tokenization-and-bpe/) | `ai-engineering` `tokenization` `bpe` `llm` `multilingual` `interview` | _coming soon_ |
 | [GitHub Stacked PRs — Stop Shipping Monster Pull Requests](topics/stacked-pull-requests/) | `github` `git` `code-review` `productivity` `devops` | _coming soon_ |
 | [Build Your First MCP Server with FastMCP](topics/mcp-server-fastmcp/) | `ai-engineering` `mcp` `fastmcp` `python` `agents` `interview` | _coming soon_ |
+| [MCP Went Stateless — The Update That Fixed Its Biggest Scaling Problem](topics/stateless-mcp/) | `ai-engineering` `mcp` `agents` `system-design` `http` `scalability` | _coming soon_ |
 
 ## Live Coding
 
