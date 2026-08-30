@@ -40,6 +40,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Kotlin Multiplatform](topics/kotlin-multiplatform/) | `mobile` `kotlin` `multiplatform` `android` `ios` `compose` | _coming soon_ |
 | [CDN Anycast Routing](topics/cdn-anycast-routing/) | `cdn` `system-design` `networking` `anycast` `latency` `interview` | _coming soon_ |
 | [Bulk Loads & Indexes](topics/bulk-loads-and-indexes/) | `databases` `indexes` `performance` `b-tree` `bulk-loads` `interview` | _coming soon_ |
+| [Production Database Migration Checklist](topics/production-database-migration-checklist/) | `databases` `migrations` `production` `reliability` `devops` `checklist` | _coming soon_ |
 | [Real-Time Collaboration App — Pre-Launch Checklist](topics/real-time-collaboration-checklist/) | `system-design` `websockets` `crdt` `realtime` `collaboration` `checklist` | _coming soon_ |
 | [Composite Indexes — The Multi-Column Index Trap](topics/composite-indexes/) | `databases` `indexes` `composite-indexes` `b-tree` `query-optimization` `interview` | _coming soon_ |
 | [Designing Google Drive](topics/design-google-drive/) | `system-design` `file-storage` `blob-storage` `pre-signed-urls` `azure` `aws` `interview` | _coming soon_ |
@@ -78,6 +79,7 @@ Working FastAPI projects you can clone and run. Each one teaches one production-
 | [Pydantic Validation — The Bouncer Your API Is Missing](live-coding/pydantic-validation/) | `fastapi` `pydantic` `validation` `security` `interview` | _coming soon_ |
 | [Health Check — Your API's Pulse](live-coding/health-check/) | `fastapi` `health-check` `devops` `kubernetes` `interview` | _coming soon_ |
 | [FastAPI HTTPException — Stop Returning Fake Success](live-coding/http-exception-error-handling/) | `fastapi` `error-handling` `http` `status-codes` `interview` | _coming soon_ |
+| [FastAPI Dependency Injection — Write It Once, Inject It Everywhere](live-coding/fastapi-dependency-injection/) | `fastapi` `dependency-injection` `api-design` `auth` `interview` | _coming soon_ |
 | [Docker Compose — One Command to Rule Them All](live-coding/docker-compose/) | `docker` `docker-compose` `microservices` `devops` `containers` | _coming soon_ |
 
 ## Data Structures & Algorithms
