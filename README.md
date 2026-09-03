@@ -66,6 +66,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [MCP Went Stateless — The Update That Fixed Its Biggest Scaling Problem](topics/stateless-mcp/) | `ai-engineering` `mcp` `agents` `system-design` `http` `scalability` | _coming soon_ |
 | [SSH — The Secure Remote Control for Servers](topics/ssh/) | `networking` `security` `linux` `ssh` `encryption` `interview` | _coming soon_ |
 | [OAuth Login Security Checklist](topics/oauth-login-security-checklist/) | `auth` `oauth` `oidc` `security` `pkce` `checklist` | _coming soon_ |
+| [Public API Launch Checklist](topics/public-api-launch-checklist/) | `api-design` `security` `production` `reliability` `checklist` | _coming soon_ |
 
 ## Live Coding
 
