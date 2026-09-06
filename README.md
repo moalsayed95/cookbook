@@ -74,7 +74,7 @@ Working FastAPI projects you can clone and run. Each one teaches one production-
 
 | Project | Tags | Video |
 |---------|------|-------|
-| [Build Your First API in 30 Seconds](live-coding/build-first-api/) | `fastapi` `uv` `beginner` `python` | _coming soon_ |
+| [Build Your First API in 30 Seconds](live-coding/build-first-api/) | `fastapi` `uv` `beginner` `python` | [Watch](https://www.instagram.com/reel/Dba4JT2NiV7/?igsh=MWJ0d2tkdHIwd2k0cA==) |
 | [Measure API Request Time](live-coding/measure-api-request-time/) | `fastapi` `middleware` `performance` `interview` | _coming soon_ |
 | [Rate Limiting](live-coding/rate-limiting/) | `fastapi` `rate-limiting` `slowapi` `security` `interview` | _coming soon_ |
 | [Add Real-Time Voice to a RAG Web App](live-coding/voice-to-rag-elevenlabs/) | `fastapi` `react` `voice` `elevenlabs` `rag` `websockets` `interview` | _coming soon_ |
