@@ -68,6 +68,14 @@ Concept deep-dives, checklists, and roadmaps.
 | [OAuth Login Security Checklist](topics/oauth-login-security-checklist/) | `auth` `oauth` `oidc` `security` `pkce` `checklist` | _coming soon_ |
 | [Public API Launch Checklist](topics/public-api-launch-checklist/) | `api-design` `security` `production` `reliability` `checklist` | _coming soon_ |
 
+## Prompts
+
+Prompts used to build real projects with AI tools and integrations.
+
+| Prompt | Tags | Video |
+|--------|------|-------|
+| [Higgsfield Plugin in ChatGPT 6 Astra](prompts/higgsfield-plugin-in-chatgpt-6-astra/) | `chatgpt` `higgsfield` `mcp` `game-development` | _coming soon_ |
+
 ## Live Coding
 
 Working FastAPI projects you can clone and run. Each one teaches one production-grade concept by building it.
